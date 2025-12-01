@@ -1,0 +1,3 @@
+EJERCICIO TEMA 3
+Lectura de un fichero
+prueba

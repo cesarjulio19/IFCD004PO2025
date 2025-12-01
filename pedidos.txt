@@ -1,0 +1,4 @@
+Cesar,monitor,60.50
+Manolo,teclado,35.75
+Rocio,pc,950
+Antonio,microfono,25.85
